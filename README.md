@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my GitHub Profile
 
-I'm **[Your Name]**, a passionate **Fullstack Developer** and **IT Support** at **PT. PODOROSO LESTARI CORP.**. I specialize in building web applications using **Python Flask, Django, HTML, CSS, JavaScript, and Bootstrap**. Additionally, I'm on a journey to becoming a **Data Analyst**, focusing on SQL, Looker Studio, and Data Visualization.
+I'm **Hans**, a passionate **Fullstack Developer** and **IT Support**. I specialize in building web applications using **Python Flask, Django, HTML, CSS, JavaScript**. Additionally, I'm on a journey to becoming a **Data Analyst**, focusing on SQL, Looker Studio, and Data Visualization.
 
 ---
 
