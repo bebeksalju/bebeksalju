@@ -21,7 +21,7 @@ I'm **Hans**, a passionate **Fullstack Developer** and **IT Support**. I special
 ---
 
 ### 📫 Connect with Me
-📧 Email: kurniahansenn@gmail.com    
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/kurnia-hansen-h-s)  
+📧 Email: [Email](kurniahansenn@gmail.com)    
+💼 LinkedIn: [LinkedIn](https://linkedin.com/in/kurnia-hansen-h-s)  
 
 Let's innovate together! 🚀
