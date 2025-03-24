@@ -28,6 +28,6 @@ I'm **Hans**, passionate in **Fullstack Developer**. I like to use **Python Flas
 
 ### 📫 Connect with Me  
 📧 **Email**: kurniahansenn@gmail.com  
-💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/kurnia-hansen-h-s)  
+💼 **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/kurnia-hansen-h-s)  
 
 Let's innovate together! 🚀
