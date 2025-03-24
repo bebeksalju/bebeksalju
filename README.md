@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Coding GIF">
 
-I'm **[Your Name]**, a passionate **Fullstack Developer** and **IT Support** at **PT. PODOROSO LESTARI CORP.**. I specialize in building web applications using **Python Flask, Django, HTML, CSS, JavaScript, and Bootstrap**. Additionally, I'm on a journey to becoming a **Data Analyst**, focusing on SQL, Looker Studio, and Data Visualization.
+I'm **Hans**, passionate in **Fullstack Developer**. I like to use **Python Flask, Django, HTML, CSS, JavaScript, and Bootstrap** for build a website. Additionally, I'm on a journey to becoming a **Data Analyst**, focusing on SQL, Looker Studio, and Data Visualization.
 
 ---
 
@@ -21,15 +21,13 @@ I'm **[Your Name]**, a passionate **Fullstack Developer** and **IT Support** at 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bebeksalju&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebeksalju&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me  
-📧 **Email**: your.email@example.com  
-🌐 **Website**: [podoroso.com](https://podoroso.com/)  
-💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+📧 **Email**: kurniahansenn@gmail.com  
+💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/kurnia-hansen-h-s)  
 
 Let's innovate together! 🚀
