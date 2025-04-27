@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Coding GIF">
 
-I'm **Hans**, passionate in **Fullstack Developer**. I like to use **Python Flask, Django, HTML, CSS, JavaScript, and Bootstrap** for build a website. Additionally, I'm on a journey to becoming a **Data Analyst**, focusing on SQL, Looker Studio, and Data Visualization.
+I'm **Hans**, passionate in **Fullstack Developer**. Additionally, I'm on a journey to becoming a **Data Analyst**, focusing on SQL, Looker Studio, and Data Visualization.
 
 ---
 
@@ -29,5 +29,3 @@ I'm **Hans**, passionate in **Fullstack Developer**. I like to use **Python Flas
 ### 📫 Connect with Me  
 📧 **Email**: kurniahansenn@gmail.com  
 💼 **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/kurnia-hansen-h-s)  
-
-Let's innovate together! 🚀
